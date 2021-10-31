@@ -1,0 +1,30 @@
+/* 
+Theme Name: Philosophy
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Tags: 
+Version: 1.0.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: 
+Text Domain: rigel
+This theme is licensed under the GPL.
+*/
+
+.header__logo h1 {
+    margin-top: 0;
+}
+
+.header__logo h1 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.wp-caption, .wp-caption-text, .sticky, .screen-reader-text, .gallery-caption, .bypostauthor, .alignright, .alignleft, .aligncenter{
+    visibility: inherit;
+}
